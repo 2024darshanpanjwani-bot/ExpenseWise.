@@ -1,4 +1,4 @@
-# Ledgerly — MERN Expense Tracker
+# ExpenseWise. — MERN Expense Tracker
 
 A full-stack expense & income management app built with **MongoDB, Express, React and Node (MERN)**. It has a proper JWT auth system with server-side validation, an interactive charts-based dashboard, monthly budgets with overspend alerts, CSV export, and a light/dark, fully responsive UI.
 
